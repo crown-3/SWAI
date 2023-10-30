@@ -1,0 +1,16 @@
+1696986639848	geckodriver	INFO	Listening on 127.0.0.1:53234
+1696986640220	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5b/mfzzr2h92vx9g2qcj86pvhm80000gn/T/rust_mozprofileL4r67C"
+2023-10-11 10:10:47.141 firefox-bin[40920:1440177] Unable to install helper!
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1696986738707	geckodriver	INFO	Listening on 127.0.0.1:53377
+1696986739656	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5b/mfzzr2h92vx9g2qcj86pvhm80000gn/T/rust_mozprofile1JQcm5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696986739918	Marionette	INFO	Marionette enabled
+1696986740103	Marionette	INFO	Listening on port 53388
+Read port: 53388
+1696986740220	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript error: https://spastatic.naver.com/v1/shopad/static/shopad-square-node/v2309121854/_next/static/chunks/377-742191d3b80ecd8e.js, line 1: Error: timeout of 2000ms exceeded
+1696987147616	Marionette	INFO	Stopped listening on port 53388
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
